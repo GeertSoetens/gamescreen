@@ -1,4 +1,4 @@
-<?php
+    <?php
 session_start();
 $username = $_SESSION['name'];
 if (isset($username) && !empty($username)){
