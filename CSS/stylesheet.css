@@ -28,6 +28,7 @@ body {
 #myaccount_a:hover {
     color: #FFFFE7;
 }
+
 #top_logo {
     font-family: 'Roboto', sans-serif;
     /*font-family: mainFont;*/
@@ -46,7 +47,7 @@ body {
     position: absolute;
     right: 45px;
     top: 45px;
-    border-top: 2px solid #4E4E4E;
+    border-top: 5px solid #4E4E4E;
 
 }
 
